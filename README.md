@@ -36,5 +36,5 @@ Can iterate through the files using the "Enter" key.
 
 ## Previews
 
-![preview](https://i.imgur.com/Cz49diQ.png)
+![preview](https://imgur.com/Cz49diQ)
   
