@@ -2,9 +2,9 @@
 Image classifying program that utilizes Naive Bayes and Nearest Neighbors algorithms to classify a set of digit and alphabets.
 
 ## Datasets
-
-You may download a set of each, testing and training data, from this [link]().  
-NOTE : If you wish to use your own datasets, make sure there exists a truth file containing the real values for the training data in the following format 
+I recommend the use fo your own dataset, perhaps the MNIST dataset, as the more training data is available to the algorithm, the better it's performance.
+You may download a set of each, testing and training data, from this [link](https://drive.google.com/drive/folders/1E4UcSEuAquXD-riOIfxO5VYZbxjnFUwj?usp=sharing).  
+NOTE : If you wish to use your own datasets, make sure there exists a truth file of type .dsv containing the real values for the training data in the following format 
 - Name of the image : Real value of the image 
 - Name of the image : Real value of the image
 - .
@@ -33,5 +33,8 @@ Can iterate through the files using the "Enter" key.
 * PILLOW
 * keyboard
 * numpy
-  
+
+## Previews
+
+![preview](https://drive.google.com/file/d/1VVK1Z_3gZtoecXY6VMLffsq5H98AVnjb/view?usp=sharing)
   
