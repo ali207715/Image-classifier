@@ -36,5 +36,5 @@ Can iterate through the files using the "Enter" key.
 
 ## Previews
 
-![preview](https://drive.google.com/file/d/1VVK1Z_3gZtoecXY6VMLffsq5H98AVnjb/view?usp=sharing)
+![preview](https://www.mediafire.com/file/hh0prb5llvcwim4/1.PNG/file)
   
