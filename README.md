@@ -1,7 +1,7 @@
 # Image-classifier
 Image classifying program that utilizes Naive Bayes and Nearest Neighbors algorithms to classify a set of digit and alphabets.
 
-##---How to run---
+## How to run
 >> python3.8 classifier.py -h
 * usage: classifier.py [-h] [-k K] [-b] train_path test_path
 
