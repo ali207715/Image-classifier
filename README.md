@@ -3,7 +3,7 @@ Image classifying program that utilizes Naive Bayes and Nearest Neighbors algori
 
 ## Datasets
 
-You may download a set of each, testing and training data, from this [link]().
+You may download a set of each, testing and training data, from this [link]().  
 NOTE : If you wish to use your own datasets, make sure there exists a truth file containing the real values for the training data in the following format 
 - Name of the image : Real value of the image 
 - Name of the image : Real value of the image
